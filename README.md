@@ -1,4 +1,4 @@
-##FIFMA
+##Figma
 "https://www.figma.com/file/kq07nG6o7Hq9B0Y6msMzwu/ReactJs-Test-2023?node-id=1%3A629&mode=dev"
 
 ##'dependencies'
